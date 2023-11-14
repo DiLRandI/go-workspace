@@ -1,3 +1,3 @@
 module github.com/DiLRandI/go-workspace/app
 
-go 1.21.4
+go 1.21

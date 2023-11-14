@@ -1,0 +1,7 @@
+go 1.21
+
+use (
+	./app
+	./libraries/libone
+	./libraries/libtwo
+)
