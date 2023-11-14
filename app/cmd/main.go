@@ -8,6 +8,8 @@ import (
 )
 
 func main() {
+	logger.SetLevel("debug")
+
 	logger.Debug("Starting the application...")
 
 	logger.Info("Adding two numbers...")
@@ -19,4 +21,5 @@ func main() {
 	logger.Info(fmt.Sprintf("Result: %d", result))
 
 	logger.Debug("Terminating the application...")
+
 }
