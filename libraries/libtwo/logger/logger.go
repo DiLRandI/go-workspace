@@ -5,7 +5,6 @@ import (
 )
 
 func Info(msg string) {
-
 	logrus.Info(msg)
 }
 
@@ -15,4 +14,12 @@ func Error(msg string) {
 
 func Debug(msg string) {
 	logrus.Debug(msg)
+}
+
+func SetLevel(level string) {
+	l, err := logrus.ParseLevel(level)
+	if err != nil {
+		logrus.Fatal(err)
+	}
+	logrus.SetLevel(l)
 }
