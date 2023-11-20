@@ -7,3 +7,7 @@ func Add(a int, b int) int {
 func Sub(a int, b int) int {
 	return a - b
 }
+
+func Mul(a int, b int) int {
+	return a * b
+}

@@ -3,7 +3,7 @@ module github.com/DiLRandI/go-workspace/app
 go 1.21
 
 require (
-	github.com/DiLRandI/go-workspace/libraries/libone v0.0.0-20231114080132-5829138f5fec
+	github.com/DiLRandI/go-workspace/libraries/libone v0.0.0-20231114082736-36717df809f4
 	github.com/DiLRandI/go-workspace/libraries/libtwo v0.0.0-20231114080132-5829138f5fec
 )
 
