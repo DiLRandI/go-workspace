@@ -1,7 +1,7 @@
 github.com/DiLRandI/go-workspace/libraries/libone v0.0.0-20231114082736-36717df809f4 h1:6atdhmeJ+IuE0Lg54RxUXnPLabNJkIL4DCfShDS8c+s=
 github.com/DiLRandI/go-workspace/libraries/libone v0.0.0-20231114082736-36717df809f4/go.mod h1:EZQuvlkA4xyMAvMU40eai8qlOAPDjU1URroHHoMw914=
-github.com/DiLRandI/go-workspace/libraries/libtwo v0.0.0-20231114080132-5829138f5fec h1:QFZ5n3Caiax6mzipS4FQW7mf68Qm6ccG1tuQYnWxeDc=
-github.com/DiLRandI/go-workspace/libraries/libtwo v0.0.0-20231114080132-5829138f5fec/go.mod h1:KPFyU0AqwZmScFsyLiiz1cRCVRmUi6nssM1yz7mcd8A=
+github.com/DiLRandI/go-workspace/libraries/libtwo v0.0.0-20231120074858-89a57e6cce54 h1:7eNOPaCnrRrIGjU1oAP/AFguzaXCejcdcIjxvHhT7wg=
+github.com/DiLRandI/go-workspace/libraries/libtwo v0.0.0-20231120074858-89a57e6cce54/go.mod h1:V2ZS6oxL/3sMecIVpYNfPftCFdeHVD3CPEmSpEeSt2Q=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

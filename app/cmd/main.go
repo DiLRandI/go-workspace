@@ -28,5 +28,4 @@ func main() {
 	logger.Info(fmt.Sprintf("Result: %d", result))
 
 	logger.Debug("Terminating the application...")
-
 }
